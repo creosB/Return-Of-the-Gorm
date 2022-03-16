@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/creosB/Return-Of-the-Gorm/main/Pictures/resim3.png" alt="picture3" title="return of the gorm3"><br>
 <img src="https://raw.githubusercontent.com/creosB/Return-Of-the-Gorm/main/Pictures/keymap.png" alt="keymap" title="keymap"></p>
 <hr>
-<iframe frameborder="0" src="https://itch.io/embed/1215375?linkback=true&amp;dark=true" width="552" height="167"><a href="https://artistscompany.itch.io/return-of-the-gorm">Return of the Gorm by artistscompany</a></iframe>
+<p class="has-line-data" data-line-start="30" data-line-end="31"><a href="https://artistscompany.itch.io/return-of-the-gorm"><img src="https://img.itch.zone/aW1nLzcwOTU4NTcucG5n/180x143%23c/tysM0j.png" alt="Available on itch.io"></a></p>
 <h1 class="code-line" data-line-start=24 data-line-end=25 ><a id="Bilmeniz_gerekenler__What_you_need_to_know_24"></a>Bilmeniz gerekenler / What you need to know</h1>
 <ul>
 <li class="has-line-data" data-line-start="25" data-line-end="27">
